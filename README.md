@@ -11,7 +11,7 @@
 # Anamitra Sikdar (sikdar.anamitra01@gmail.com)
 ## or 
 # Santanu Misra (smisra@iitk.ac.in)
-##for any queries
+## ... for any queries
 
 
 # NOTE:
