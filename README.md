@@ -9,7 +9,7 @@
 #
 #
 ##  Please contact
-# Anamitra Sikdar (sikdar.anamitra01@gmail.com)
+# [Anamitra Sikdar](https://anamitrasikdar.gitlab.io/) (sikdar.anamitra01@gmail.com)
 ##  or 
 # Santanu Misra (smisra@iitk.ac.in)
 ##  for any queries
